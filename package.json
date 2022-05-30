@@ -1,0 +1,25 @@
+{
+  "name": "Af_project_frontend_kushira",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharinduChathutanga/AF_Group_Project_frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tharinduChathutanga/AF_Group_Project_frontend/issues"
+  },
+  "homepage": "https://github.com/tharinduChathutanga/AF_Group_Project_frontend#readme",
+  "dependencies": {
+    "parcel": "^2.5.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
